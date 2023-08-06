@@ -77,7 +77,6 @@ function generateInvoice(){
 
 <template>
   <section class="mx-auto container bg-white border border-gray-400 min-h-screen p-12">
-    {{ data }}
     <div class="flex justify-between">
         <div class="flex flex-col space-y-5 w-1/2s">
             <div class=" ">
